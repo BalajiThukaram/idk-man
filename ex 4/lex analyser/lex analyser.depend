@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669534493 source:f:\cdl\ex 4\lex analyser\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
